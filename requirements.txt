@@ -1,0 +1,9 @@
+# Python 3.11.4
+
+ipykernel
+pandas
+Pillow
+selenium
+requests
+numpy
+scikit-learn
